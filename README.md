@@ -1,4 +1,4 @@
-# latihan_dio
+# Batik-app
 
 A new Flutter project.
 
